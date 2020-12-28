@@ -3,12 +3,15 @@
 <br>
 <br>
 seleniumを用いて打刻を自動化します。Google chromeでの使用をイメージしています。
+<br>
+<br>
 Chromedriverが必要になるので、ご使用のGoogle chromeバージョンに合うwebdriverをダウンロードしてください。
 <br>
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 <br>
 <br>
 macでは、AutomatorとCalendarアプリで実行タイミングをスケジュールできます。
+<br>
 windowsであれば、タスクスケジューラで実行タイミングのスケジューリングをします。
 <br>
 <br>
