@@ -1,12 +1,15 @@
 # Dakoku-Automation
 ワーク◯アプリケーション 就労・プロジェクト管理 web打刻の自動化
 <br>
+<br>
 seleniumを用いて打刻を自動化します。Google chromeでの使用をイメージしています。
 Chromedriverが必要になるので、ご使用のGoogle chromeバージョンに合うwebdriverをダウンロードしてください。
 <br>
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 <br>
+<br>
 macでは、AutomatorとCalendarアプリで実行タイミングをスケジュールできます。
+<br>
 <br>
 
 ## var.py
