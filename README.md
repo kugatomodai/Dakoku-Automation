@@ -9,6 +9,7 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 <br>
 <br>
 macでは、AutomatorとCalendarアプリで実行タイミングをスケジュールできます。
+windowsであれば、タスクスケジューラで実行タイミングのスケジューリングをします。
 <br>
 <br>
 
